@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Ronjoh793
 - 👀 I’m interested in Data Science and Data Analytics  
-- 🌱 I’m currently learning Data Science 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Computer & Data Science 
+- 📫 How to reach me: www.linkedin.com/in/ronny-johnson-838b67229 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: 
 
